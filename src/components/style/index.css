@@ -1,0 +1,6 @@
+.listprojects__table--col--projectname{
+  max-width: 150px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
